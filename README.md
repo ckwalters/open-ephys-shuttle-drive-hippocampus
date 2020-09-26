@@ -1,5 +1,6 @@
 # open-ephys-shuttle-drive-hippocampus
 Open Ephys 16 tetrode <a href="https://github.com/open-ephys/shuttle-drive">ShuttleDrive</a> modified for bilateral hippocampal recording in mice
+Targeted to dorsal CA1
 
 
 9 guide tubes arranged in a parallelogram per hemisphere (18 total, 1 empty guide tube per hemisphere) <br>
