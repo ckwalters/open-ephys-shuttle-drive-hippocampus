@@ -5,6 +5,5 @@ Open Ephys 16 tetrode <a href="https://github.com/open-ephys/shuttle-drive">Shut
 ![Drive rendering](https://github.com/ckwalters/open-ephys-shuttle-drive-hippocampus/blob/main/reference/tetrode_drive.png)
 
 ## Tetrode layout
-The bilateral hippocampal drive has two apertures, each with 9 guide tubes arranged in a parallelogram. There will be 1 empty guide tube per hemisphere.<br>
-Stereotaxic coordinates: ±1.26 ML, -2.08 AP
+The bilateral hippocampal drive has two apertures, each with 9 guide tubes arranged in a parallelogram. There will be 1 empty guide tube per hemisphere. Stereotaxic coordinates: ±1.26 mm ML, -2.08 mm AP.
 ![Guide tube layout](https://github.com/ckwalters/open-ephys-shuttle-drive-hippocampus/blob/main/reference/guidetube_layout.png)
